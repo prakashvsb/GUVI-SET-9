@@ -22,7 +22,7 @@ printf("\n%d",n2-n1);
 }
 
 }
-
+getch();
 return 0;
 }
 
