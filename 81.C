@@ -16,13 +16,12 @@ printf("\n%d",n1-n2);
 
 else
 	{
-
-printf("\n%d",n2-n1);
-
-}
+	printf("\n %d",n2-n1);
+	 }
 
 }
-getch();
-return 0;
+ getch();
+ return 0;
+ 
 }
 
